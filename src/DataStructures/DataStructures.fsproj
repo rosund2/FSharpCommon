@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <None Include="Applicator.fsx" />
-    <None Include="Tree.fs" />
+    <None Include="Graph.fs" />
   </ItemGroup>
 
 </Project>

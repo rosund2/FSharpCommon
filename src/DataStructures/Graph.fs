@@ -81,7 +81,6 @@ module Graph =
         loop initIds []
 
     let resolveAll graph = 
-
         let nodes = 
             List.map (fun (k,v) -> 
                     let oId = v.Id
