@@ -6,8 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Applicator.fsx" />
-    <None Include="Graph.fs" />
+	  <None Include="Script.fsx" />
+	  <None Include="Applicator.fsx" />
+	  <None Include="Graph.fs" />
+
   </ItemGroup>
 
 </Project>

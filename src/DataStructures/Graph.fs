@@ -92,21 +92,6 @@ module Graph =
         Map.ofList nodes
 
 
-//open Graph
-
-//let graph = 
-//    let pr g = 
-//        printfn "%A" g
-//        g
-
-//    makeGraph<string,string>
-//    |> stringToNodeToGraph "groupA"
-//    |> stringToNodeToGraph "groupB" 
-//    |> stringToNodeToGraph "groupC" 
-//    |> stringToNodeToGraph "groupD" 
-//    |> connectObjectsById "groupA" "groupB" 
-//    |> connectObjectsById "groupA" "groupC" 
-//    |> connectObjectsById "groupC" "groupD" 
 
 //let x = resolveObjectById "groupA" graph
 //let y = resolveAll graph
